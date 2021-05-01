@@ -1,0 +1,42 @@
+.menu{
+    display :flex;
+    justify-content: space-between;
+    background-color: lightcyan;
+    font-size: 20px;
+   
+    font-style:italic;
+    
+    color:rgb(138, 18, 18);
+}
+body{
+    background-color:rgb(10, 107, 102);
+}
+.grid{
+    border: 2px solid black;
+    border-radius: 50px;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content:space-between;
+    background-color: rgb(243, 243, 144);
+    
+}
+.org{
+    border-radius: 20px;
+    background-color:rgb(243, 243, 144) ;
+    border: 2px solid black;
+ 
+color: rgb(25, 8, 99);
+    width: 310px;
+    font-family: fantasy;
+}
+.mr{
+    border: 2px solid black;
+    border-radius: 50px;
+    display: flex;
+    justify-content: flex-end;
+    width:40px;
+    height:50;
+    background-color: black;
+
+    
+}
